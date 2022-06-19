@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sparks-foundation-website/static/css/main.346075d7.css",
+    "main.js": "/sparks-foundation-website/static/js/main.afae77ce.js",
+    "static/media/video.mp4": "/sparks-foundation-website/static/media/video.7771d91114af96a0044e.mp4",
+    "static/media/background.jpg": "/sparks-foundation-website/static/media/background.a5afde95c06a16a5c78a.jpg",
+    "index.html": "/sparks-foundation-website/index.html",
+    "main.346075d7.css.map": "/sparks-foundation-website/static/css/main.346075d7.css.map",
+    "main.afae77ce.js.map": "/sparks-foundation-website/static/js/main.afae77ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.346075d7.css",
+    "static/js/main.afae77ce.js"
+  ]
+}
