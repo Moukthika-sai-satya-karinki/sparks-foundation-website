@@ -1,3 +1,7 @@
+#check out the website on your browser at the link below
+https://moukthika-sai-satya-karinki.github.io/sparks-foundation-website/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
