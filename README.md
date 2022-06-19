@@ -1,4 +1,4 @@
-#check out the website on your browser at the link below
+check out the website on your browser at the link below
 https://moukthika-sai-satya-karinki.github.io/sparks-foundation-website/
 
 
